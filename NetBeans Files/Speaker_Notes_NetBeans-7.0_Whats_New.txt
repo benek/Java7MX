@@ -1,0 +1,58 @@
+
+Welcome to the Speaker Notes for the "NetBeans 7.0 What's New" slide deck!
+
+Below, a note is added for each of the 26 slides in the deck, to help you speak to each of the slides. You are free to talk about your own experiences in relation to the material in the slide deck, but the comments below might help you get the central message across. Note that the more you show, the more useful it will be, i.e., do some demos, as outlined below,  while you talk about the IDE's features.
+
+NB: Where you see <None> below, the slide is a generic template slide, typically at the start and at the end of the slide deck.
+
+1. <None>
+
+2. Here you can welcome the audience to the presentation. Intorduce yourself, talk about your own experiences with NetBeans IDE, and tell the audience that you are going to introduce NetBeans IDE 7.0 to them.
+
+3. State that this is the generic non-disclosure slide shown in all Oracle presentations. 
+
+4. Here you can introduce NetBeans IDE on the highest level, stating what it is and what it is for. The slide outlines these points.
+
+5. This is where you can explain the types of applications that can be created and the languages that can be used in NetBeans IDE.
+
+6. State that the underlying modular framework of NetBeans IDE can be used as the basis of any kind of desktop application.
+
+7. Mention that NetBeans is also a world wide community of developers, and that those in the audience can join it, by blogging about it, Twittering, writing tutorials, filing issues, and contributing patches.
+
+8. The unique distinguishing features of NetBeans IDE are listed here.
+
+9. In this slide, you can introduce the focus of this presentation, i.e., what's new in NetBeans IDE 7.0. Go through each item in this list and then state that the slides that follow will go into details about each of these.
+
+10. Strings in Switch: Optionally, demonstrate this in the IDE.
+
+11. Diamond. Optionally, demonstrate this reractoring in the IDE.
+
+12. Try with resources. Optionally, demonstrate this refactoring in the IDE.
+
+13. Integer literals & underscores. Optionally, demonstrate this refactoring in the IDE.
+
+14. Multicatch variable declaration. Optionally, demonstrate this refactoring in the IDE.
+
+15. GlassFish v 3.1. Optionally, show the Services tab in the IDE, with GlassFish 3.1 running.
+
+16. Oracle WebLogic. Optionally, show the Services tab in the IDE, with Oracle WebLogic running.
+
+17. HTML 5 Editor. Optionally, show an HTML 5 document open in the IDE, with code completion, and Javadoc.
+
+18. GriBagLayout Designer. Optionally, open a JFrame/JPanel with GridBagLayout, right-click it, choose "Customize Layout".
+
+19. Apache Maven 3. Optionally, show a Maven-based application in the IDE or the Maven tab in the Options window.
+
+20. Git. Optionally, show how to install Git or show a project checked out from Git and then show the available Git funcctionality.
+
+21. PHP Editor. Optionally, show a PHP project, with code completion and Javadoc, which are enhanced here.
+
+22. JUnit 4.8.2. Optionally, show a project with JUnit 4.8.2 support.
+
+23. Annotations. Optionally, create a new module, then create a new window component, and show the annotations for registering it.
+
+24. End the presentation with clear instructions on how the audience can get started with the IDE and tell them thata they are very welcome to blog, Tweet, and contribute to it. Tell them about the resources, shown on the slide, and show a feew of them online.
+
+25. <None>
+
+26. <None>
